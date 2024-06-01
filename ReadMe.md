@@ -26,4 +26,4 @@ For more details, please refer to the [article](https://www.polymtl.ca).
 
 ## Authors
 
-* **Eray Guven, Gunes Karabulut Kurt** - (*SoonToBePublished* - [article](https://www.polymtl.ca).
+* **Eray Guven, Gunes Karabulut Kurt** - (*SoonToBePublished*) - [article](https://www.polymtl.ca).
