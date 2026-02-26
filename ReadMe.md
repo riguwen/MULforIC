@@ -22,8 +22,8 @@ The source code comprises three main steps:
     - This final step implements MIA cross-validation.
     - It evaluates and compares the pre-trained, re-trained, and unlearned models.
 
-For more details, please refer to the [article]((https://ieeexplore.ieee.org/document/10901616)).
+For more details, please refer to the [article](https://ieeexplore.ieee.org/document/10901616).
 
-## Authors
+## Reference
 
 * **Eray Guven, Gunes Karabulut Kurt** - (IEEE Global Communications Conference, Cape Town, South Africa, 2024, pp. 4890-4895, doi: 10.1109/GLOBECOM52923.2024.10901616.)
