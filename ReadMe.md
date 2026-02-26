@@ -1,5 +1,9 @@
 # Machine Unlearning for Interference Cancellation
 
+<p align="center">
+  <img src="MULL.png" width="300"/>
+</p>
+
 The project MUIC introduces model cleansing within interference exposed data-driven AI models, as a solution for interference cancellation, offering significant gains in both resource and time efficiency. A corrupted dataset generated
 model is cleansed and a cross-validation is performed with the MIA. This source code presentes a quick tutorial on MUIC with a signal-to-noise ratio (SNR) classification task under several interference conditions.
 
